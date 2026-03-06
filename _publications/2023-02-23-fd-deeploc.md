@@ -8,6 +8,7 @@ date: 2023-02-23
 venue: 'Nature Methods'
 # slidesurl: ''
 paperurl: 'https://www.nature.com/articles/s41592-023-01775-5'
+codeurl: 'https://github.com/Li-Lab-SUSTech/FD-DeepLoc' 
 # bibtexurl: ''
 # citation: 'Fu, S., Shi, W., Luo, T. et al. Field-dependent deep learning enables high-throughput whole-cell 3D super-resolution imaging. Nat Methods 20, 459–468 (2023).'
 ---

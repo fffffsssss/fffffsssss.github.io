@@ -44,7 +44,7 @@ ongoing_projects:
 
 Hi, I am Shuang Fu(傅爽). 
 
-I am currently a Postdoc at [Yiming Li's Lab](https://li-lab-sustech.github.io/), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China. 
+I am currently a Postdoc at [Yiming Li's Lab](https://li-lab-sustech.github.io/), [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), Shenzhen, China. Prior to that, I received my Ph.D. in Physics from Southern University of Science and Technology in 2024, M.Eng. from Jiangsu University in 2020, and B.Eng. from Jiangsu Ocean University in 2017.
 
 My previous research focused on developing tools for single-molecule localization microscopy (SMLM), especially **AI4SMLM**, where I developed a series of physics-informed deep learning methods to make SMLM more robust under complex imaging conditions. I’m also fascinated by **Intelligent Optical Systems** and **Computer Vision**. My philosophy is simple: combine physics knowledge with the power of data-driven AI to build tools that actually work in the real world. I’m always looking for opportunities to participate in projects that don't just sound cool, but are truly useful for researchers and engineers.
 
