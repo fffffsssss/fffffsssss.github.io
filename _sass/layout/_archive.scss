@@ -184,9 +184,42 @@
       margin-bottom: 2em;
     }
 
+    // @include breakpoint($small) {
+    //   .archive__item-teaser {
+    //     @include span(5 of 12);
+    //   }
+
+    //   .archive__item-body {
+    //     @include span(7 of 12 last);
+    //     @include prefix(0.5 of 12);
+    //     @include suffix(1 of 12);
+    //   }
+    // }
+
     @include breakpoint($small) {
+      /* 让整体项变成 Flex 弹性盒子，并且强制按顶部对齐 */
+      .archive__item {
+        display: flex;
+        align-items: flex-start;
+      }
+
       .archive__item-teaser {
         @include span(5 of 12);
+        /* 将左边的图片往下推大概 1 个 em 的距离，对应右边标题的排版距离（保留这个以实现顶部对齐） */
+        margin-top: 2em; /* 或者 1.5em，你可以微调这个距离直到它和右边标题第一行完全齐平 */
+
+        /* 固定高度裁切保证所有图统一 */
+        // height: 180px; 
+        
+        overflow: hidden;
+        border-radius: $border-radius;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        
+        img {
+          width: 100%;
+          // height: 100%;
+          // object-fit: cover;
+        }
       }
 
       .archive__item-body {
