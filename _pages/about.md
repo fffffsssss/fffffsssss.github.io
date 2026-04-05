@@ -48,7 +48,7 @@ I am currently a Postdoc at [Yiming Li's Lab](https://li-lab-sustech.github.io/)
 
 My previous research focused on developing tools for single-molecule localization microscopy (SMLM), especially **AI4SMLM**, where I developed a series of physics-informed deep learning methods to make SMLM more robust under complex imaging conditions. I’m also fascinated by **Intelligent Optical Systems** and **Computer Vision**. My philosophy is simple: combine physics knowledge with the power of data-driven AI to build tools that actually work in the real world. I’m always looking for opportunities to participate in projects that don't just sound cool, but are truly useful for researchers and engineers.
 
-**I am currently looking for Postdoctoral/Research positions starting as early as August 2026, with flexibility extending into early 2027.** If you are interested, feel free to contact me at `fus@sustech.edu.cn`.
+**I am currently looking for Research positions starting as early as August 2026, with flexibility extending into early 2027.** If you are interested, feel free to contact me at `fus@sustech.edu.cn`.
 
 ## Selected Publications
 <!-- 这是用来召唤你上面在 YAML 中配置的数据的组件，这里的 id 必须对应你在上面写的 'selected_papers' -->
