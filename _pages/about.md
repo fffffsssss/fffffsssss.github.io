@@ -17,6 +17,13 @@ selected_papers:
     # url: "https://www.nature.com/articles/s41592-023-01775-5"
     # btn_label: "Read Paper"
     # btn_class: "btn--primary"
+  
+  - image_path: "lunar_concept.jpg"
+    alt: "paper thumbnail"
+    title: "<a href='https://www.nature.com/articles/s41467-026-73045-9'><span style='font-size: 0.8em;'>Aberration-aware 3D localization microscopy via self-supervised neural-physics learning</span></a>"
+    excerpt: >
+      **Fu, S.** et al. *Nat Commun*, (2026). <br>
+      We developed LUNAR that can jointly learn a physical PSF model and a localization neural network, enhancing SMLM to achieve **calibration-free volumetric nanoscopy** in complex biological samples.
 
   - image_path: "dmo-psf.png"
     alt: "paper thumbnail"
@@ -32,14 +39,14 @@ selected_papers:
       Fei, Y.<sup>#</sup>, **Fu, S.<sup>#</sup>**, Shi, W.<sup>#</sup> et al. *Nat Commun* 16, 7217 (2025). <br>
       We propose a **competitively parallel** data analysis framework with a **lightweight network** to massively increase the SMLM data analysis throughput.
 
-ongoing_projects:
-  - image_path: "lunar.png" # 换成你新项目的预览图名字
-    alt: "project thumbnail"
-    # 这里依然可以嵌入调整字体或加入超链接
-    title: "<a href='https://www.biorxiv.org/content/10.1101/2025.02.16.638552v2'><span style='font-size: 0.8em;'>Aberration-aware 3D localization microscopy via self-supervised neural-physics learning</span></a>"
-    excerpt: >
-      **Fu, S.** et al. *bioRxiv* (2026). <br>
-      We develop a blind 3D localization framework that can handle overlapping single-molecule data with unknown aberrations. By jointly learning **a physical PSF model** and **a localization network**, our method enhances SMLM with much improved robustness, achieving **calibration-free volumetric nanoscopy** in complex biological samples.
+# ongoing_projects:
+#   - image_path: "lunar.png" # 换成你新项目的预览图名字
+#     alt: "project thumbnail"
+#     # 这里依然可以嵌入调整字体或加入超链接
+#     title: "<a href='https://www.biorxiv.org/content/10.1101/2025.02.16.638552v2'><span style='font-size: 0.8em;'>Aberration-aware 3D localization microscopy via self-supervised neural-physics learning</span></a>"
+#     excerpt: >
+#       **Fu, S.** et al. *bioRxiv* (2026). <br>
+#       We develop a blind 3D localization framework that can handle overlapping single-molecule data with unknown aberrations. By jointly learning **a physical PSF model** and **a localization network**, our method enhances SMLM with much improved robustness, achieving **calibration-free volumetric nanoscopy** in complex biological samples.
 ---
 
 Hi, I am Shuang Fu(傅爽). 
